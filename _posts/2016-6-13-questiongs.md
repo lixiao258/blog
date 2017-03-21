@@ -1,6 +1,8 @@
 ---
 layout: post
-title:  "一些题目"
+title:  "一些面试题目"
+tags:
+categories:
 ---
 # 面/笔试准备方向
 
